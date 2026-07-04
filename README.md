@@ -94,3 +94,9 @@ The portfolio will emphasize code, interfaces, timing, recovery behavior, protoc
 - **Learning:** study material that supports the track but is not a flagship project
 
 **Portfolio status: In Progress**
+
+## Connect
+
+- [Medium](https://medium.com/@sirvanksc)
+- [LinkedIn](https://www.linkedin.com/in/srvnksc/)
+- [YouTube](https://www.youtube.com/@SirvanKesici)
